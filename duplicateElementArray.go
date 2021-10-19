@@ -1,6 +1,6 @@
 package tasks	
 
-func HasDupicate (numbers []int) string {
+func HasDuplicate (numbers []int) string {
 
 	var duplicate bool
 
