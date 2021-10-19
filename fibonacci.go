@@ -7,7 +7,7 @@ func Fibonacci (limit int) []int {
 
 	var a, b, c int
 
-
+	b = 1
 
 	for i := 0; i < limit; i++ {
 
