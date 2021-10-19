@@ -9,7 +9,7 @@ func Palindrome (number int) string {
 
 		rem := tmp % 10
 
-		sum = sum * 10 + rem
+		summa = summa * 10 + rem
 
 		tmp /= 10
 
